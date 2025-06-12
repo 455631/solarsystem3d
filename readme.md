@@ -41,6 +41,10 @@ The "Real view" option in the GUI replicates the conditions in space, where part
 
 ####   How to Start the project
 
-1. **Clone this repository**:
-   git clone https://github.com/your-username/solar-system-threejs.git
-   cd solar-system-threejs
+1. **Clone my repository**:
+    click on the link->>(https://github.com/455631/solarsystem3d)  and download it and Opened on Vs Code
+   
+   
+2. **Install Live Server  Extensions From VS Code Extensions**
+   
+3.**Just Click on Go Live**
